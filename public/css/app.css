@@ -1,0 +1,29 @@
+.student_from{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 20px;
+}
+.student_from h2{
+    text-align: center;
+}
+.ts-control {
+    border: none !important;
+    padding: 0px !important;
+    background-color: transparent !important;
+}
+.show_icon {
+    margin: 0px 10px;
+    color: green;
+}
+.fa-edit{
+    color: blue;
+}
+.fa-trash-o{
+    color: red;
+}
+.label{
+    font-size: 17px;
+}
+.student_show .row{
+    padding: 5px 0px;
+}
